@@ -6,7 +6,7 @@ Built using RDKit, XGBoost, Scikit-learn, FastAPI, and SHAP, this project demons
 
 🚀 Live Application
 
-🌐 "Try the Live Application" (https://lnkd.in/dM4N54pF)
+🌐 "Try the Live Application" https://drug-discovery-ml.onrender.com/?utm_source=chatgpt
 
 💻 "View Source Code" (https://lnkd.in/dGyeaZkC)
 
